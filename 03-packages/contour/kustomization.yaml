@@ -8,5 +8,6 @@ commonLabels:
 namespace: tanzu-packages
 
 resources:
+- namespace.yaml
 - contour-psp.yaml
 - contour-package-install.yaml
