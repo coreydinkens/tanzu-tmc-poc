@@ -5,7 +5,7 @@ commonLabels:
   app: contour
   demo: kustomize-contour
 
-namespace: contour-ac
+namespace: tanzu-packages
 
 resources:
 - config.yaml
