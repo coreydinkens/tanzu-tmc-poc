@@ -8,4 +8,4 @@ commonLabels:
 namespace: cert-man
 
 resources:
-- cert-man-deploy.yaml
+- cert-manager-package-install.yaml
