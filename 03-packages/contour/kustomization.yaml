@@ -10,5 +10,4 @@ namespace: contour-ac
 resources:
 - config.yaml
 - contour-psp.yaml
-- contour-deployment.yaml
-- ingress.yaml
+- contour-package-install.yaml
