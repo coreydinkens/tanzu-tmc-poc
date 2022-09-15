@@ -8,7 +8,7 @@ commonLabels:
 namespace: contour-ac
 
 resources:
-- namespace.yaml
-- deployment.yaml
-- service.yaml
+- config.yaml
+- contour-psp.yaml
+- contour-deployment.yaml
 - ingress.yaml
